@@ -1,0 +1,10 @@
+Package: com.canvasvisualsdl
+Name: Canvas Visuals DL
+Depends: mobilesubstrate
+Conflicts: com.spos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Download Canvas Visuals from Spotify.
+Maintainer: aesthyrica
+Author: aesthyrica
+Section: Tweaks
